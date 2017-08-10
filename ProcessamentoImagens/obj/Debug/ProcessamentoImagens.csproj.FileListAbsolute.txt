@@ -1,0 +1,89 @@
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Chico C\Chico 2015 - Semestre 1\Aulas\Aulas TTC\Aula 1\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Users\Uninfo\Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\Public\Music\Sample Music\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+D:\Membros\Augusto\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Users\Proprietario\Documents\ProcessamentoImagens\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmRunLenght.resources
+D:\Membros\Augusto\PI\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+D:\Membros\Augusto\PI\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+D:\Membros\Augusto\PI\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmRunLenght.resources
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+D:\Membros\Augusto\PI\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmKMeans.resources
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmRunLenght.resources
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmKMeans.resources
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+C:\Users\Uninfo\Downloads\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.CG.FrmCG.resources
+D:\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+D:\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+D:\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmKMeans.resources
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+D:\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
+D:\K-Means\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe.config
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.exe
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.pdb
+D:\K-Means\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.exe
+D:\K-Means\K-Means\ProcessamentoImagens\bin\Debug\ProcessamentoImagens.pdb
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csprojResolveAssemblyReference.cache
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.frmPrincipal.resources
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.FrmKMeans.resources
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.Properties.Resources.resources
+D:\K-Means\K-Means\ProcessamentoImagens\obj\Debug\ProcessamentoImagens.csproj.GenerateResource.Cache
